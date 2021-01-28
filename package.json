@@ -13,6 +13,7 @@
     "@fortawesome/react-fontawesome": "^0.1.12",
     "autoprefixer": "^10.0.1",
     "axios": "^0.21.0",
+    "chart.js": "^2.9.4",
     "next": "10.0.0",
     "postcss-cli": "^8.2.0",
     "postcss-preset-env": "^6.7.0",
